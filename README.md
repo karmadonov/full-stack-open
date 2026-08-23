@@ -17,3 +17,4 @@ The first rule of frontend web development: `keep the console open all the time`
 
 - [Writing Markup with JSX](https://react.dev/learn/writing-markup-with-jsx)
 - [JSX converter](https://transform.tools/html-to-jsx)
+- [Fragments](https://react.dev/reference/react/Fragment)
