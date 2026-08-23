@@ -1,0 +1,17 @@
+## Introduction to React
+
+Create a new project with Vite:
+
+    npm create vite@latest
+
+Run app:
+
+    npm run dev
+
+### React
+
+- [Your First Component](https://react.dev/learn/your-first-component)
+- [Arrow functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions)
+
+The first rule of frontend web development: `keep the console open all the time`.
+
