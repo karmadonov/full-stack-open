@@ -1,3 +1,11 @@
+const Hello = () => {
+  return (
+    <div>
+      <p>Hello world</p>
+    </div>
+  )
+}
+
 const App = () => {
   console.log('Hello from component')
 
@@ -8,10 +16,10 @@ const App = () => {
 
   return (
     <div>
-      <p>Hello world, it is {now.toString()}</p>
-      <p>
-        {a} plus {b} is {a + b}
-      </p>
+      <h1>Greetings</h1>
+      <Hello />
+      <Hello />
+      <Hello />
     </div>
   )
 }
